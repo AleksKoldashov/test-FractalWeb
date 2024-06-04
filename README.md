@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Данное тестовое задание выполненно для  Fractal Web. С использованием React/TypeScript.
+Запуск приложения `npm start`
 
 ## Available Scripts
 
